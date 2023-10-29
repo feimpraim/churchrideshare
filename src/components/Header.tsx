@@ -8,7 +8,7 @@ const Header = () => {
         <Link href="/" passHref>
           <div className="flex items-center cursor-pointer">
             {/* Logo - Increased Size */}
-            <img src="/desertheartlogo.png" alt="Desert Heart PIWC Logo" className="h-40 mr-4"/>
+     
             
            
           </div>
