@@ -38,7 +38,7 @@ const Login = () => {
             </button>
             <Link href="/register" passHref>
               <span className="text-sm text-blue-600 hover:underline cursor-pointer">
-                Don't have an account &apos
+                Don't have an account
               </span>
             </Link>
           </div>
